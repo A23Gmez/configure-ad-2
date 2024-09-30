@@ -1,4 +1,8 @@
-# configure-ad-2
+# # Configuring-AD Part 2
+
+<h1>Deploying Active Directory/Creating Users w/ PowerShell</h1>
+
+![image](https://github.com/user-attachments/assets/3b32e7e9-8b18-4233-8a94-dde8afc44543)
 
 Part 2
 
